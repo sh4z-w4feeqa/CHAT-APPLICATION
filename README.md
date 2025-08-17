@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTHOSH
 
 # PROJECT DESCRIPTION
-
+<div style="text-align: justify;">
 The real-time chat application is an interactive web-based system designed to facilitate instant communication between users and a bot. It simulates a modern messaging platform where users can send messages and receive immediate responses from an AI-powered bot. This project is built with a combination of front-end, back-end, and real-time communication technologies.
 
 **Tools and Technologies Used**
@@ -56,6 +56,7 @@ The integration of real-time messaging technologies, like Socket.IO, simulates p
 **Conclusion**
 
 In conclusion, this Chat Application demonstrates the effective use of HTML, CSS, JavaScript, Node.js, Express, and Socket.IO to create an interactive, responsive, and practical communication tool. Beyond learning full-stack development, the project highlights how modern web technologies can be used to solve real-world problems in customer service, education, and social networking. Its modular design also allows for future enhancements, such as integrating AI models for more sophisticated responses, multimedia messaging, and cross-platform deployment.
+</div>
 
 # OUTPUT
 
