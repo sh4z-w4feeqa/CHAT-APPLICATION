@@ -53,6 +53,15 @@ This mini chat app has many real-world applications. Customer support chatbots c
 
 The integration of real-time messaging technologies, like Socket.IO, simulates professional-grade chat platforms such as WhatsApp or Messenger. Businesses can enhance user engagement, streamline customer service, and provide interactive experiences.
 
+**Challenges Faced**
+
+* _WebSocket Integration:_ Implementing Socket.IO for real-time messaging while maintaining smooth, low-latency communication.
+
+* _Message Ordering:_ Ensuring messages from the user appears in the correct order despite network delays.
+
+* _User Presence:_ Displaying the active user and their typing indicators accurately.
+
+
 **Conclusion**
 
 In conclusion, this Chat Application demonstrates the effective use of HTML, CSS, JavaScript, Node.js, Express, and Socket.IO to create an interactive, responsive, and practical communication tool. Beyond learning full-stack development, the project highlights how modern web technologies can be used to solve real-world problems in customer service, education, and social networking. Its modular design also allows for future enhancements, such as integrating AI models for more sophisticated responses, multimedia messaging, and cross-platform deployment.
