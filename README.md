@@ -16,6 +16,7 @@
 
 <div style="text-align: justify;">
   The real-time chat application is an interactive web-based system designed to facilitate instant communication between users and a bot. It simulates a modern messaging platform where users can send messages and receive immediate responses from an AI-powered bot. This project is built with a combination of front-end, back-end, and real-time communication technologies.
+  
 
 **Tools and Technologies Used**
 
